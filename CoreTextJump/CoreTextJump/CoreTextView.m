@@ -71,7 +71,6 @@
     {
         if (selectionRect.rect.size.width == 0 || selectionRect.rect.size.height == 0) continue;
         [rects addObject:selectionRect];
-        
     }
     
     //获取触摸点的位置
